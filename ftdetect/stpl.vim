@@ -3,4 +3,4 @@
 " URL:         http://github.com/rust-sailfish/sailfish
 " License:     MIT
 
-autocmd BufNewFile,BufRead *.stpl set filetype=sailfish
+autocmd BufNewFile,BufRead *.stpl set filetype=stpl
